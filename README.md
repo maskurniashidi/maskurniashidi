@@ -26,7 +26,7 @@ Hello My name is Maskurnia shidi, I'am a Frontend Developer.
 ![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/TS-00ADD8?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Vue-FFD43B?style=for-the-badge&logo=vue&logoColor=blue)
+![](https://img.shields.io/badge/Vue-FFD43B?style=for-the-badge&logo=vuedotjs&logoColor=blue)
 ![](https://img.shields.io/badge/React-339933?style=for-the-badge&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
