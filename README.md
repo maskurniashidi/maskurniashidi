@@ -3,6 +3,16 @@
 ## Who am I?
 
 Hello My name is Maskurnia shidi, I'am a Frontend Developer.
+<p align="center">
+  <a href="https://www.linkedin.com/in/maskurniashidi"><img alt="Linkedin" title="Maskurnia Shidi Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/maskurniashidi"><img alt="Github" title="Maskurnia Shidi Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.facebook.com/maskurnia.shidi.5"><img alt="Facebook" title="Maskurnia Shidi FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://instagram.com/maskurniash"><img alt="Instagram" title="Maskurnia Shidi Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ </p>
+ <p align="center">
+  <a href="mailto:maskurshidi12@gmail.com"><img alt="Gmail" title="Maskurnia Shidi Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://t.me/maskurniash"><img alt="Telegram" title="Jaydeep Yadav Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+</p>
 
 ## Github Stats
 
@@ -19,17 +29,3 @@ Hello My name is Maskurnia shidi, I'am a Frontend Developer.
 ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-## Connect with Me
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/maskurniashidi"><img alt="Linkedin" title="Maskurnia Shidi Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/maskurniashidi"><img alt="Github" title="Maskurnia Shidi Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.facebook.com/maskurnia.shidi.5"><img alt="Facebook" title="Maskurnia Shidi FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://instagram.com/maskurniash"><img alt="Instagram" title="Maskurnia Shidi Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
- </p>
- <p align="center">
-  <a href="mailto:maskurshidi12@gmail.com"><img alt="Gmail" title="Maskurnia Shidi Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/maskurniash"><img alt="Telegram" title="Jaydeep Yadav Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
-</p>
