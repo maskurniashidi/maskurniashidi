@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   
 ## About
 Hello, I am Frontend developer.
